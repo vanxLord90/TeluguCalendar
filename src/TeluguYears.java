@@ -182,13 +182,7 @@ String names[]= {"Prabhava"
 
 	}
 	
-//	public static void main(String[] args) {
-		//String yearName="Prabhava";
-//		int currentYear=2022;
-//		int birthYear=1968;
-//		String s=yearToName(currentYear,birthYear);
-//		System.out.println(s);	
-//	}
+
 	
 	
 }
